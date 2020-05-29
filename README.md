@@ -2,6 +2,11 @@
 
 Restaurant recommender system is a machine learning model.This blog is the part of capstone project in Udacity Nanodegree Program.The overview of this project is to recommend restaurants based on user’s likes and dislikes and his previous interest data.
 
+### Blog Post Link
+
+I have written a blog post about this project.Here is the link given below.
+https://medium.com/@sidharth.ku178/restaurant-recommender-system-80c5ee2b9c35
+
 ### Library used
 
 1. numpy
